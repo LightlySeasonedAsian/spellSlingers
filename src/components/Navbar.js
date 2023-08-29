@@ -11,19 +11,19 @@ export default function Navbar() {
           </a>
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
-          <a href="#projects" className="mr-5 hover:text-white">
-            What is it
+          <a href="#gamemodes" className="mr-5 hover:text-white">
+            The Rules
           </a>
           <a href="#skills" className="mr-5 hover:text-white">
-            How to Play
+            Quick Start
           </a>
-          <a href="#testimonials" className="mr-5 hover:text-white">
+          <a href="#reviews" className="mr-5 hover:text-white">
             Reviews
           </a>
-          <a href="https://docs.google.com/document/d/1KBD8IFviksGhD6lJFca6Lm4dkJNplEQfl3b1wvnX-f4/edit?usp=drive_link" className="mr-5 hover:text-white">
+          <a href="#donate" className="mr-5 hover:text-white">
             Pre-Order/Donate
           </a>
-          <a href="https://github.com/LightlySeasonedAsian" className="mr-5 hover:text-white">
+          <a href="#aboutus" className="mr-5 hover:text-white">
             About Us
           </a>
         </nav>
